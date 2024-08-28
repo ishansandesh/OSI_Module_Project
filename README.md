@@ -46,7 +46,7 @@ The **OSI Module Project** is a Python-based interactive representation of the O
 2. **Run the Script**:
 
     ```bash
-    python OSI_MODULE.py
+    python OSI_MODEL.py
 
 #### Made by ISS (┌◉ ͜ʖ◉)つ┣▇▇▇═──
 
